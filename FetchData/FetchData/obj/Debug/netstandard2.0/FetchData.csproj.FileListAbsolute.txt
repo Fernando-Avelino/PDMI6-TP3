@@ -1,0 +1,15 @@
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.deps.json
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.dll
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\ref\FetchData.dll
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\bin\Debug\netstandard2.0\FetchData.pdb
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.AssemblyReference.cache
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfoInputs.cache
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.AssemblyInfo.cs
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.csproj.CoreCompileInputs.cache
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.dll
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\ref\FetchData.dll
+E:\Users\hu\source\repos\FetchData\FetchData\FetchData\obj\Debug\netstandard2.0\FetchData.pdb
